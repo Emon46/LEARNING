@@ -10,6 +10,8 @@ https://docs.google.com/document/d/1HPtAGnG6Uua4jUYG_LD2Rm1QNNwlw6-2t0jJJ_Locd8/
 https://drive.google.com/file/d/1FMdN_OCfOI0iAeDlqswCiC2DZzD4nPsb/view
 
 # EKS:
+https://www.udemy.com/course/aws-cicd-automation-complete-reference-for-prod-ready-system/
+https://www.udemy.com/course/kubernetes-on-aws-using-amazon-eks/
 
 # API GATEWAY:
 
